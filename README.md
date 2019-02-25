@@ -1,9 +1,9 @@
-#Space Invaders 
+# Space Invaders 
 
-######Packages needed:
+##### Packages needed:
 pygame
 
-######Controls:
+###### Controls:
 1. key 'A' to move left.
 2. key 'D' to move it to the right.
 3. key 'space' to shoot missile.
